@@ -36,7 +36,8 @@ const Signup = () => {
               required
             />
           </div>
-          <div className="space-y-1">
+          <div className="space-y-1"
+          >
             <label htmlFor="email" className="block text-sm font-medium">Email</label>
             <input
               type="email"
